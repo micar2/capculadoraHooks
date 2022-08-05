@@ -13,7 +13,7 @@ function App() {
 
   const agregarInput = val => {
     setInput(input + val);
-  }
+  };
 
   const calcularResultado = () => {
     if(input){
