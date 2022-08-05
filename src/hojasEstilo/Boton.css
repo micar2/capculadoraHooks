@@ -1,0 +1,20 @@
+.boton-contenedor{
+    height: 83px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 25px;
+    border: 2px solid antiquewhite;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.operador{
+    background-color: rgb(56, 99, 13);
+}
