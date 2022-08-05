@@ -14,7 +14,14 @@
     cursor: pointer;
     user-select: none;
 }
+.boton-contenedor:hover{
+    background-color: darkmagenta;
+}
 
 .operador{
     background-color: rgb(56, 99, 13);
+}
+
+.operador:hover{
+    background-color: rgba(247, 163, 8, 0.43);
 }
